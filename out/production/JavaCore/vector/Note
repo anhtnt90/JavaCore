@@ -1,0 +1,1 @@
+This Java program is to Implement Vector. The elements of a vector are stored contiguously.Like all dynamic array implementations, vectors have low memory usage and good locality of reference and data cache utilization
